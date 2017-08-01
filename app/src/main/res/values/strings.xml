@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicassoImageDemo</string>
+    <string name="heading">Image Load using Picasso Library</string>
+</resources>
